@@ -1,0 +1,18 @@
+A=10101010,B=01010101,carry in=0,opcode=000,C=11111111,carry out=0,A larger=0, Equal=0,zero=0
+A=10101010,B=01010101,carry in=1,opcode=000,C=00000000,carry out=1,A larger=0, Equal=0,zero=1
+A=10101010,B=01010101,carry in=0,opcode=000,C=11111111,carry out=0,A larger=0, Equal=0,zero=0
+A=00001100,B=01010101,carry in=0,opcode=001,C=00000110,carry out=0,A larger=0, Equal=0,zero=0
+A=00001100,B=01010101,carry in=1,opcode=001,C=10000110,carry out=0,A larger=0, Equal=0,zero=0
+A=00001100,B=01010101,carry in=0,opcode=001,C=00000110,carry out=0,A larger=0, Equal=0,zero=0
+A=00010110,B=01010101,carry in=0,opcode=010,C=00101100,carry out=0,A larger=0, Equal=0,zero=0
+A=00010110,B=01010101,carry in=1,opcode=010,C=00101101,carry out=0,A larger=0, Equal=0,zero=0
+A=00010110,B=01010101,carry in=0,opcode=010,C=00101100,carry out=0,A larger=0, Equal=0,zero=0
+A=10000001,B=01010101,carry in=0,opcode=001,C=01000000,carry out=1,A larger=0, Equal=0,zero=0
+A=10000001,B=01010101,carry in=0,opcode=010,C=00000010,carry out=1,A larger=0, Equal=0,zero=0
+A=10101010,B=01010101,carry in=0,opcode=011,C=01010101,carry out=0,A larger=0, Equal=0,zero=0
+A=10101010,B=01010101,carry in=0,opcode=100,C=00000000,carry out=0,A larger=0, Equal=0,zero=1
+A=10101010,B=01010101,carry in=0,opcode=101,C=11111111,carry out=0,A larger=0, Equal=0,zero=0
+A=10101010,B=01010101,carry in=0,opcode=110,C=11111111,carry out=0,A larger=0, Equal=0,zero=0
+A=10101010,B=10101010,carry in=0,opcode=111,C=00000000,carry out=0,A larger=0, Equal=1,zero=1
+A=10101100,B=10101010,carry in=0,opcode=111,C=00000110,carry out=0,A larger=1, Equal=0,zero=0
+Test Complete
